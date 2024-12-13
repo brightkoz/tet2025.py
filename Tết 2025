@@ -1,1 +1,6 @@
-# tet2025.py
+git init
+git add tet2025.py
+git commit -m "Add Tết 2025 code"
+git branch -M main
+git remote add origin <URL của repository>
+git push -u origin main
